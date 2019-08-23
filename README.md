@@ -1,3 +1,8 @@
+## Just one way to include Esri AGS JS API into your react app.
+Just Follow TO DO REAME.txt
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
